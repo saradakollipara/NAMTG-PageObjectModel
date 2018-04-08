@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Manage My Patient Automation Test Suite" duration-ms="85660" started-at="2018-04-08T21:02:11Z" finished-at="2018-04-08T21:03:37Z">
+    <groups>
+    </groups>
+    <test name="Manage My Patient Automation Test Cases" duration-ms="85660" started-at="2018-04-08T21:02:11Z" finished-at="2018-04-08T21:03:37Z">
+      <class name="com.mmp.reg.qa.testcases.ValidateSearchSymptomLinkTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mmp.reg.qa.testcases.ValidateSearchSymptomLinkTest@5622fdf]" name="setUp" is-config="true" duration-ms="32275" started-at="2018-04-08T21:02:25Z" finished-at="2018-04-08T21:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSearchSymptomsTest()[pri:1, instance:com.mmp.reg.qa.testcases.ValidateSearchSymptomLinkTest@5622fdf]" name="validateSearchSymptomsTest" duration-ms="833" started-at="2018-04-08T21:02:57Z" finished-at="2018-04-08T21:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchSymptomsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mmp.reg.qa.testcases.ValidateSearchSymptomLinkTest@5622fdf]" name="tearDown" is-config="true" duration-ms="832" started-at="2018-04-08T21:02:58Z" finished-at="2018-04-08T21:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mmp.reg.qa.testcases.ValidateSearchSymptomLinkTest -->
+      <class name="com.mmp.reg.qa.testcases.ValidatePatLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mmp.reg.qa.testcases.ValidatePatLoginTest@6093dd95]" name="setUp" is-config="true" duration-ms="12852" started-at="2018-04-08T21:02:11Z" finished-at="2018-04-08T21:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateHomePageTest()[pri:1, instance:com.mmp.reg.qa.testcases.ValidatePatLoginTest@6093dd95]" name="validateHomePageTest" duration-ms="21" started-at="2018-04-08T21:02:24Z" finished-at="2018-04-08T21:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mmp.reg.qa.testcases.ValidatePatLoginTest@6093dd95]" name="tearDown" is-config="true" duration-ms="835" started-at="2018-04-08T21:02:24Z" finished-at="2018-04-08T21:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mmp.reg.qa.testcases.ValidatePatLoginTest@6093dd95]" name="setUp" is-config="true" duration-ms="16777" started-at="2018-04-08T21:02:59Z" finished-at="2018-04-08T21:03:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePatLoginTest()[pri:2, instance:com.mmp.reg.qa.testcases.ValidatePatLoginTest@6093dd95]" name="validatePatLoginTest" duration-ms="20355" started-at="2018-04-08T21:03:16Z" finished-at="2018-04-08T21:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePatLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mmp.reg.qa.testcases.ValidatePatLoginTest@6093dd95]" name="tearDown" is-config="true" duration-ms="830" started-at="2018-04-08T21:03:36Z" finished-at="2018-04-08T21:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mmp.reg.qa.testcases.ValidatePatLoginTest -->
+    </test> <!-- Manage My Patient Automation Test Cases -->
+  </suite> <!-- Manage My Patient Automation Test Suite -->
+</testng-results>

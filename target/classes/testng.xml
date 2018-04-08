@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Manage My Patient Automation Test Suite">
+	<test name="Manage My Patient Automation Test Cases" verbose="5">
+		<classes>
+			<class name="com.mmp.reg.qa.testcases.ValidatePatLoginTest"></class>
+			<class name="com.mmp.reg.qa.testcases.ValidateSearchSymptomLinkTest"></class>
+		
+		</classes>	
+	</test>
+</suite>
